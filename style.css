@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.parent{
+	display:flex;
+	height:300px;
+}
+.child{
+	width:100px;
+	height:100px;
+	margin:auto;
+}
+
