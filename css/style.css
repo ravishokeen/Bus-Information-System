@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.table-heading
+{
+	background-color:#FC0;
+	border-right:none;
+	border-left:none;
+}
+.desc
+{
+	color:#39F;
+	font-weight:bold;
+}
+
